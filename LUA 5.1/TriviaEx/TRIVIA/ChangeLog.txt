@@ -1,0 +1,84 @@
+ 
+	*** TRIVIA EX by CHILL ***
+
+-- 25.11.04 : V0.68
+1. Added Command to change the Questionmode
+
+-- 03.11.04 : V0.67
+1. Major rewriting done :))), took some time
+2. Added command to add questions to a certain file
+3. Added a tabe where one can insert the profilesID's that are allowed to use the bot
+	3 Categories:
+		Normal, all commands so one can play
+		Config, commands to configure parts of the bot
+		Config+, things like scorereset, and play in main or pm
+
+
+-- 31.10.04 : V0.66
+1. Added option to let the bot be configured by all hub members
+2. Now only saves Scores if there are new scores
+3. Added saving of sequential number when loading new questions, needed when using TD4
+4. Added option to let the script stop the trivia when a certain number of questions in a row weren't answered.
+5. Some grammar editing.
+6. Updating Runs is fixed.
+
+-- 23.5.04 : V0.65
+1. Optimised script
+
+-- 26.3.04 : V0.649
+1. BugFix with Reading normal Trivia Questions e.g. Question*answer1*Answer2
+2. Added another way to display questions. (RevealQues)
+
+-- 14.3.04 : V0.648
+1. BugFix with sorting TrivScores.
+
+-- 14.3.04 : V0.647
+1. BugFix with corrupt Lines from QuestionFile.
+2. Added more Stats, such as total answered questions and average answering time.
+
+-- 9.2.04 : V0.645
+1. Added Option, to allow users to put bot in PM and MAIN, see AllowUser
+2. Rewritten Timer a little.
+3. Max4 stands now for the time in minutes till a triviabreak.
+5. Added Option to split answers, when beeing longer than "SplitQuesChars", its just a layout thing.
+
+-- 3.2.04 : V0.644
+1. Added option to stop the hints when being lower than Max10 hints to show. If you don't want it then just, Set it to 0.
+2. Made it only possible to answer from where it is played, in PM only in PM in Main only from Main.
+
+-- 1.2.04 : V0.643
+1. Added Mulitple Answers support. FORMAT: Category$Question$Answer1$Answer2$...$AnswerN
+or FORMAT: Question$Answer1$Answer2$...$AnswerN but then you need to check the "GetQuestionMode".
+$ is the default "DivideChar" and can be changed.
+2. Added more question Exsamples to the *.rar.
+
+-- 31.1.04 : V0.642
+
+1. Changed the getting of category, question, answer.
+2. Added option to only divide Question and Answer by dividechar.Check for "GetQuestionMode".
+3. Added showing, of the answering time.
+ !!!!  Important  redownload the questions, if you don't have own questions  !!!!
+
+-- 28.1.04 : V0.641
+
+1. Hopefully fixed revealing of chars.
+2. Added User Stats :)). Like longest Streak and so on.
+3. Also changed the trivmyscore, you'll see.
+
+-- 21.1.04 : V0.64
+
+1. Switched to only have a question file no seek file anymore. Less memory. Question get time is around 0.3 seconds. But runs now between 100 and 150 kb mem :)).
+2. Some rewriting in how PM players are handled.
+3. HowToGetQuestions changes now only between random and linear mode.
+4. Added a few questions to the Trivia Rar.
+
+
+-- 17.1.04: V 0.63
+
+1. Added possibility to Have own Questions Files. (sometimes slower and not randome)
+	Files Must be like this:  Category$$Questions$$Answer, $$ can be changed in the LUA file (DivideChar)
+	You also need to set :  HowToGetQuestions = 2  for own Questions Mode)
+2. Added a nother way to display the Answers, Hints.
+3. Switched to only have a question file no seek file. Less memory. Question get time is around 0.3 seconds.
+4. Some rewriting in how PM players are handled.
+5. HowToGetQuestions changes now only between random and linear mode.

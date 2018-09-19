@@ -1,0 +1,7 @@
+TrivEx._Config = {
+	["trivhint"] = 0,
+	["trivskip"] = 0,
+	["mode"] = "main",
+	["showquesmode"] = 1,
+	["sequentialnum"] = 0,
+}

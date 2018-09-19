@@ -1,0 +1,490 @@
+RSS = {
+	["gs-all"] = {
+		["Cache"] = {
+		},
+		["sHost"] = "www.gamespot.com/misc/rss/gamespot_updates_all_games.xml",
+		["sDesc"] = "gamespot - all games",
+		["Queue"] = {
+		},
+	},
+	["nzb-lm"] = {
+		["Cache"] = {
+		},
+		["sHost"] = "www.jonsthoughtsoneverything.com/feeds/newzbin/newzbin-music-lossless.xml",
+		["sDesc"] = "NewzBinz - Lossless Music",
+		["Queue"] = {
+		},
+	},
+	["nzb-dvdr"] = {
+		["Cache"] = {
+		},
+		["sHost"] = "www.jonsthoughtsoneverything.com/feeds/newzbin/newzbin-dvdr.xml",
+		["sDesc"] = "NewzBinz - DVD-r",
+		["Queue"] = {
+		},
+	},
+	["nzb-mac"] = {
+		["Cache"] = {
+		},
+		["sHost"] = "www.jonsthoughtsoneverything.com/feeds/newzbin/newzbin-mac.xml",
+		["sDesc"] = "NewzBinz - MAC",
+		["Queue"] = {
+		},
+	},
+	["nzb-tv"] = {
+		["Cache"] = {
+		},
+		["sHost"] = "www.jonsthoughtsoneverything.com/feeds/newzbin/newzbin-tv.xml",
+		["sDesc"] = "NewzBinz - TV",
+		["Queue"] = {
+		},
+	},
+	["swe-xxx"] = {
+		["Cache"] = {
+		},
+		["sHost"] = "rss.swecheck.net/?s=xxx",
+		["sDesc"] = "Swecheck - XXX",
+		["Queue"] = {
+		},
+	},
+	["swe-mp3"] = {
+		["Cache"] = {
+		},
+		["sHost"] = "rss.swecheck.net/?s=mp3",
+		["sDesc"] = "Swecheck - MP3s",
+		["Queue"] = {
+		},
+	},
+	["nzb-pdam"] = {
+		["Cache"] = {
+		},
+		["sHost"] = "www.jonsthoughtsoneverything.com/feeds/newzbin/newzbin-pdamovies.xml",
+		["sDesc"] = "NewzBinz - PDA Movies",
+		["Queue"] = {
+		},
+	},
+	["nzb-xxx"] = {
+		["Cache"] = {
+		},
+		["sHost"] = "www.jonsthoughtsoneverything.com/feeds/newzbin/newzbin-xxx.xml",
+		["sDesc"] = "NewzBinz - XXX",
+		["Queue"] = {
+		},
+	},
+	["nzb-ppcg"] = {
+		["Cache"] = {
+		},
+		["sHost"] = "www.jonsthoughtsoneverything.com/feeds/newzbin/newzbin-ppc-games.xml",
+		["sDesc"] = "NewzBinz - Pocket PC Games",
+		["Queue"] = {
+		},
+	},
+	["nfpcg-addon"] = {
+		["Cache"] = {
+		},
+		["sHost"] = "www.nforce.nl/rss/rss_3.xml",
+		["sDesc"] = "NFOrce PC-Games Addons",
+		["Queue"] = {
+		},
+	},
+	["w-ch"] = {
+		["Cache"] = {
+		},
+		["sHost"] = "xml.weather.yahoo.com/forecastrss?p=60187",
+		["sDesc"] = "Ch Weather",
+		["Queue"] = {
+		},
+	},
+	["nzb-pspv"] = {
+		["Cache"] = {
+		},
+		["sHost"] = "www.jonsthoughtsoneverything.com/feeds/newzbin/newzbin-psp-video.xml",
+		["sDesc"] = "NewzBinz - PsP Video",
+		["Queue"] = {
+		},
+	},
+	["xbs1"] = {
+		["Cache"] = {
+		},
+		["sHost"] = "www.xbox-scene.com/xbox1data/xbox-scene.xml",
+		["sDesc"] = "Xbox-Scene 1",
+		["Queue"] = {
+		},
+	},
+	["swe-vcd"] = {
+		["Cache"] = {
+		},
+		["sHost"] = "rss.swecheck.net/?s=vcd",
+		["sDesc"] = "Swecheck - VCD",
+		["Queue"] = {
+		},
+	},
+	["nfdivx"] = {
+		["Cache"] = {
+		},
+		["sHost"] = "www.nforce.nl/rss/rss_12.xml",
+		["sDesc"] = "NFOrce DiVX",
+		["Queue"] = {
+		},
+	},
+	["nfpcg-iso"] = {
+		["Cache"] = {
+		},
+		["sHost"] = "www.nforce.nl/rss/rss_2.xml",
+		["sDesc"] = "NFOrce PC-Games ISO",
+		["Queue"] = {
+		},
+	},
+	["nfxbox"] = {
+		["Cache"] = {
+		},
+		["sHost"] = "www.nforce.nl/rss/rss_11.xml",
+		["sDesc"] = "NFOrce Xbox",
+		["Queue"] = {
+		},
+	},
+	["nfdc"] = {
+		["Cache"] = {
+		},
+		["sHost"] = "www.nforce.nl/rss/rss_7.xml",
+		["sDesc"] = "NFOrce Dreamcast",
+		["Queue"] = {
+		},
+	},
+	["nfanime"] = {
+		["Cache"] = {
+		},
+		["sHost"] = "www.nforce.nl/rss/rss_16.xml",
+		["sDesc"] = "NFOrce Anime",
+		["Queue"] = {
+		},
+	},
+	["cnall"] = {
+		["Cache"] = {
+		},
+		["sHost"] = "www.console-news.org/rss/rss_all.rss",
+		["sDesc"] = "Console-News All",
+		["Queue"] = {
+		},
+	},
+	["swe-svcd"] = {
+		["Cache"] = {
+		},
+		["sHost"] = "rss.swecheck.net/?s=svcd",
+		["sDesc"] = "Swecheck - SVCD",
+		["Queue"] = {
+		},
+	},
+	["swe-games"] = {
+		["Cache"] = {
+		},
+		["sHost"] = "rss.swecheck.net/?s=games",
+		["sDesc"] = "Swecheck - Games",
+		["Queue"] = {
+		},
+	},
+	["nzb-xbox"] = {
+		["Cache"] = {
+		},
+		["sHost"] = "www.jonsthoughtsoneverything.com/feeds/newzbin/newzbin-xbox.xml",
+		["sDesc"] = "NewzBinz - Xbox",
+		["Queue"] = {
+		},
+	},
+	["nfpcg-rip"] = {
+		["Cache"] = {
+		},
+		["sHost"] = "www.nforce.nl/rss/rss_1.xml",
+		["sDesc"] = "NFOrce PC-Games Rip",
+		["Queue"] = {
+		},
+	},
+	["swe-dvdr"] = {
+		["Cache"] = {
+		},
+		["sHost"] = "rss.swecheck.net/?s=dvd-r",
+		["sDesc"] = "Swecheck - DVD-r",
+		["Queue"] = {
+		},
+	},
+	["nfps"] = {
+		["Cache"] = {
+		},
+		["sHost"] = "www.nforce.nl/rss/rss_8.xml",
+		["sDesc"] = "NFOrce Playstation",
+		["Queue"] = {
+		},
+	},
+	["nfps2"] = {
+		["Cache"] = {
+		},
+		["sHost"] = "www.nforce.nl/rss/rss_9.xml",
+		["sDesc"] = "NFOrce PS2",
+		["Queue"] = {
+		},
+	},
+	["cnps2"] = {
+		["Cache"] = {
+		},
+		["sHost"] = "www.console-news.org/rss/rss_xbox.rss",
+		["sDesc"] = "Console-News PS2",
+		["Queue"] = {
+		},
+	},
+	["swe-apps"] = {
+		["Cache"] = {
+		},
+		["sHost"] = "rss.swecheck.net/?s=apps",
+		["sDesc"] = "Swecheck - Apps",
+		["Queue"] = {
+		},
+	},
+	["clubic-news"] = {
+		["Cache"] = {
+		},
+		["sHost"] = "www.clubic.com/xml/news.xml",
+		["sDesc"] = "Clubic News",
+		["Queue"] = {
+		},
+	},
+	["gs-ps2"] = {
+		["Cache"] = {
+		},
+		["sHost"] = "www.gamespot.com/misc/rss/gamespot_updates_playstation_2.xml",
+		["sDesc"] = "gamespot - ps2 games",
+		["Queue"] = {
+		},
+	},
+	["gameslave"] = {
+		["Cache"] = {
+		},
+		["sHost"] = "www.gameslave.co.uk/gameslave.rss",
+		["sDesc"] = "UK - Gameslave",
+		["Queue"] = {
+		},
+	},
+	["nzb-ps2"] = {
+		["Cache"] = {
+		},
+		["sHost"] = "www.jonsthoughtsoneverything.com/feeds/newzbin/newzbin-ps2.xml",
+		["sDesc"] = "NewzBinz - PS2",
+		["Queue"] = {
+		},
+	},
+	["nzb-xvid"] = {
+		["Cache"] = {
+		},
+		["sHost"] = "www.jonsthoughtsoneverything.com/feeds/newzbin/newzbin-divx.xml",
+		["sDesc"] = "NewzBinz - XViD",
+		["Queue"] = {
+		},
+	},
+	["nzb-ppca"] = {
+		["Cache"] = {
+		},
+		["sHost"] = "www.jonsthoughtsoneverything.com/feeds/newzbin/newzbin-ppc-apps.xml",
+		["sDesc"] = "NewzBinz - Pocket PC Apps",
+		["Queue"] = {
+		},
+	},
+	["nfxxx"] = {
+		["Cache"] = {
+		},
+		["sHost"] = "www.nforce.nl/rss/rss_17.xml",
+		["sDesc"] = "NFOrce XXX",
+		["Queue"] = {
+		},
+	},
+	["nzb-psp"] = {
+		["Cache"] = {
+		},
+		["sHost"] = "www.jonsthoughtsoneverything.com/feeds/newzbin/newzbin-dvdr.psp",
+		["sDesc"] = "NewzBinz - PsP",
+		["Queue"] = {
+		},
+	},
+	["nfsvcd"] = {
+		["Cache"] = {
+		},
+		["sHost"] = "www.nforce.nl/rss/rss_15.xml",
+		["sDesc"] = "NFOrce SVCD",
+		["Queue"] = {
+		},
+	},
+	["nfvcd"] = {
+		["Cache"] = {
+		},
+		["sHost"] = "www.nforce.nl/rss/rss_14.xml",
+		["sDesc"] = "NFOrce VCD",
+		["Queue"] = {
+		},
+	},
+	["nfpca-iso"] = {
+		["Cache"] = {
+		},
+		["sHost"] = "www.nforce.nl/rss/rss_6.xml",
+		["sDesc"] = "NFOrce PC-Apps ISO",
+		["Queue"] = {
+		},
+	},
+	["swe-tv"] = {
+		["Cache"] = {
+		},
+		["sHost"] = "rss.swecheck.net/?s=tv",
+		["sDesc"] = "Swecheck - TV",
+		["Queue"] = {
+		},
+	},
+	["nzb-games"] = {
+		["Cache"] = {
+		},
+		["sHost"] = "www.jonsthoughtsoneverything.com/feeds/newzbin/newzbin-games.xml",
+		["sDesc"] = "NewzBinz - Games",
+		["Queue"] = {
+		},
+	},
+	["gs-xbox"] = {
+		["Cache"] = {
+		},
+		["sHost"] = "www.gamespot.com/misc/rss/gamespot_updates_xbox.xml",
+		["sDesc"] = "gamespot - xbox games",
+		["Queue"] = {
+		},
+	},
+	["nzb-unix"] = {
+		["Cache"] = {
+		},
+		["sHost"] = "www.jonsthoughtsoneverything.com/feeds/newzbin/newzbin-unix.xml",
+		["sDesc"] = "NewzBinz - Unix",
+		["Queue"] = {
+		},
+	},
+	["nfpcg-p"] = {
+		["Cache"] = {
+		},
+		["sHost"] = "www.nforce.nl/rss/rss_4.xml",
+		["sDesc"] = "NFOrce PC-Games Patches",
+		["Queue"] = {
+		},
+	},
+	["nfpcg-dox"] = {
+		["Cache"] = {
+		},
+		["sHost"] = "www.nforce.nl/rss/rss_5.xml",
+		["sDesc"] = "NFOrce PC-Games Docs",
+		["Queue"] = {
+		},
+	},
+	["nfdvdr"] = {
+		["Cache"] = {
+		},
+		["sHost"] = "www.nforce.nl/rss/rss_18.xml",
+		["sDesc"] = "NFOrce DVD-R",
+		["Queue"] = {
+		},
+	},
+	["nzb-divx"] = {
+		["Cache"] = {
+		},
+		["sHost"] = "www.jonsthoughtsoneverything.com/feeds/newzbin/newzbin-xvid.xml",
+		["sDesc"] = "NewzBinz - DiVX",
+		["Queue"] = {
+		},
+	},
+	["cnxbox"] = {
+		["Cache"] = {
+		},
+		["sHost"] = "www.console-news.org/rss/rss_xbox.rss",
+		["sDesc"] = "Console-News Xbox",
+		["Queue"] = {
+		},
+	},
+	["cngc"] = {
+		["Cache"] = {
+		},
+		["sHost"] = "www.console-news.org/rss/rss_gc.rss",
+		["sDesc"] = "Console-News Game Cube",
+		["Queue"] = {
+		},
+	},
+	["ptxdb"] = {
+		["Cache"] = {
+		},
+		["Queue"] = {
+		},
+		["sDesc"] = "PtokaX Script DB",
+		["sHost"] = "ptxscriptdb.psycho-chihuahua.net/e107_plugins/rss_menu/rss.php?12.1",
+	},
+	["swe-divx"] = {
+		["Cache"] = {
+		},
+		["sHost"] = "rss.swecheck.net/?s=divx",
+		["sDesc"] = "Swecheck - DiVX",
+		["Queue"] = {
+		},
+	},
+	["nftv"] = {
+		["Cache"] = {
+		},
+		["sHost"] = "www.nforce.nl/rss/rss_19.xml",
+		["sDesc"] = "NFOrce TV-Rips",
+		["Queue"] = {
+		},
+	},
+	["nzb-apps"] = {
+		["Cache"] = {
+		},
+		["sHost"] = "www.jonsthoughtsoneverything.com/feeds/newzbin/newzbin-apps.xml",
+		["sDesc"] = "NewzBinz - Apps",
+		["Queue"] = {
+		},
+	},
+	["nfgba"] = {
+		["Cache"] = {
+		},
+		["sHost"] = "www.nforce.nl/rss/rss_10.xml",
+		["sDesc"] = "NFOrce GBA",
+		["Queue"] = {
+		},
+	},
+	["pcw-dlm"] = {
+		["Cache"] = {
+		},
+		["sHost"] = "rss.pcworld.com/rss/downloads.rss?period=month",
+		["sDesc"] = "Pc World Top Download (monthly)",
+		["Queue"] = {
+		},
+	},
+	["nfall"] = {
+		["Cache"] = {
+		},
+		["sHost"] = "www.nforce.nl/rss/rss_all.xml",
+		["sDesc"] = "NFOrce All",
+		["Queue"] = {
+		},
+	},
+	["nfxvid"] = {
+		["Cache"] = {
+		},
+		["sHost"] = "www.nforce.nl/rss/rss_13.xml",
+		["sDesc"] = "NFOrce XViD",
+		["Queue"] = {
+		},
+	},
+	["filep"] = {
+		["Cache"] = {
+		},
+		["sHost"] = "www.file-portal.net/backend.php?id=120",
+		["sDesc"] = "Last 20 items on file-portal.net",
+		["Queue"] = {
+		},
+	},
+	["swe-mvids"] = {
+		["Cache"] = {
+		},
+		["sHost"] = "rss.swecheck.net/?s=mvids",
+		["sDesc"] = "Swecheck - MVids",
+		["Queue"] = {
+		},
+	},
+}
